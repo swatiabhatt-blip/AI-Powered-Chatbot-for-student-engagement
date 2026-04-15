@@ -1,0 +1,30 @@
+Query Text,Intent,Entities,Sentiment,Response Template,Timestamp,User ID,Department
+When is the last date to submit assignment?,Ask_Deadline,"{""assignment"":""Marketing Project""}",Neutral,The last date to submit the Marketing Project assignment is May 10th.,01-04-2024 10:15,S001,Marketing
+Can you share the syllabus for HRM course?,Request_Resource,"{""course"":""HRM""}",Neutral,"Sure, you can find the HRM syllabus on the LMS under course materials.",01-04-2024 10:20,S002,HRM
+I am facing issues accessing the portal.,Report_Issue,{},Negative,Sorry to hear that. Please try clearing your browser cache or contact IT support.,01-04-2024 10:25,S003,IT Support
+The recent workshop was very helpful!,Feedback_Submission,{},Positive,Thank you for your feedback! We're glad you found the workshop helpful.,01-04-2024 10:30,S004,Events
+What are the library timings on weekends?,Ask_Resource,"{""facility"":""Library""}",Neutral,The library is open from 9 AM to 5 PM on weekends.,01-04-2024 10:35,S005,Library
+How can I apply for a scholarship?,Request_Resource,"{""service"":""Scholarship""}",Neutral,You can apply for scholarships through the student portal under the 'Financial Aid' section.,01-04-2024 10:40,S006,Financial Aid
+I need help with course registration.,Report_Issue,"{""service"":""Course Registration""}",Negative,Please contact the registrar's office for assistance with course registration.,01-04-2024 10:45,S007,Registrar
+The campus Wi-Fi is very slow today.,Report_Issue,"{""service"":""Wi-Fi""}",Negative,We apologize for the inconvenience. Our IT team is working to resolve the Wi-Fi issues.,01-04-2024 10:50,S008,IT Support
+Thank you for organizing the cultural fest!,Feedback_Submission,{},Positive,We're happy you enjoyed the cultural fest! Looking forward to your participation next year.,01-04-2024 10:55,S009,Events
+"""When is the last date to submit assignment?""",Ask_Deadline,"{""assignment"":""Marketing Project""}",Neutral,"""The last date to submit the Marketing Project assignment is May 10th.""",01-04-2024 10:15,S001,Marketing
+"""Can you share the syllabus for HRM course?""",Request_Resource,"{""course"":""HRM""}",Neutral,"""Sure, you can find the HRM syllabus on the LMS under course materials.""",01-04-2024 10:20,S002,HRM
+"""I am facing issues accessing the portal.""",Report_Issue,{},Negative,"""Sorry to hear that. Please try clearing your browser cache or contact IT support.""",01-04-2024 10:25,S003,IT Support
+"""The recent workshop was very helpful!""",Feedback_Submission,{},Positive,"""Thank you for your feedback! We're glad you found the workshop helpful.""",01-04-2024 10:30,S004,Events
+"""What are the library timings on weekends?""",Ask_Resource,"{""facility"":""Library""}",Neutral,"""The library is open from 9 AM to 5 PM on weekends.""",01-04-2024 10:35,S005,Library
+"""How can I apply for a scholarship?""",Request_Resource,"{""service"":""Scholarship""}",Neutral,"""You can apply for scholarships through the student portal under the 'Financial Aid' section.""",01-04-2024 10:40,S006,Financial Aid
+"""I need help with course registration.""",Report_Issue,"{""service"":""Course Registration""}",Negative,"""Please contact the registrar's office for assistance with course registration.""",01-04-2024 10:45,S007,Registrar
+"""The campus Wi-Fi is very slow today.""",Report_Issue,"{""service"":""Wi-Fi""}",Negative,"""We apologize for the inconvenience. Our IT team is working to resolve the Wi-Fi issues.""",01-04-2024 10:50,S008,IT Support
+"""Thank you for organizing the cultural fest!""",Feedback_Submission,{},Positive,"""We're happy you enjoyed the cultural fest! Looking forward to your participation next year.""",01-04-2024 10:55,S009,Events
+"""What is the procedure to change my elective subject?""",Request_Resource,"{""service"":""Elective Change""}",Neutral,"""You can request elective changes through the student portal before the deadline.""",01-04-2024 11:00,S010,Academic Affairs
+"""Is there any upcoming seminar on digital marketing?""",Ask_Event,"{""event"":""Digital Marketing Seminar""}",Neutral,"""Yes, the Digital Marketing seminar is scheduled for April 15th.""",01-04-2024 11:05,S011,Events
+"""Can I get the contact details of the placement officer?""",Request_Resource,"{""person"":""Placement Officer""}",Neutral,"""You can find the placement officer's contact details on the college website.""",01-04-2024 11:10,S012,Placement
+"""The classroom projector is not working.""",Report_Issue,"{""facility"":""Projector""}",Negative,"""Please report this to the maintenance department for immediate assistance.""",01-04-2024 11:15,S013,Maintenance
+"""How do I apply for a leave of absence?""",Request_Resource,"{""service"":""Leave Application""}",Neutral,"""Leave applications can be submitted online via the student portal.""",01-04-2024 11:20,S014,Administration
+"""The cafeteria food quality has improved recently.""",Feedback_Submission,{},Positive,"""Thank you for your feedback! We will share this with the cafeteria management.""",01-04-2024 11:25,S015,Cafeteria
+"""Are there any scholarships available for sports achievers?""",Request_Resource,"{""service"":""Sports Scholarship""}",Neutral,"""Yes, scholarships for sports achievers are available. Please check the sports department.""",01-04-2024 11:30,S016,Sports
+"""I am unable to access my exam results.""",Report_Issue,"{""service"":""Exam Results""}",Negative,"""Please contact the examination office for assistance with accessing your results.""",01-04-2024 11:35,S017,Examination
+"""Thank you for the quick response regarding my query.""",Feedback_Submission,{},Positive,"""We appreciate your kind words! We're here to help anytime.""",01-04-2024 11:40,S018,Support
+"""What are the timings for the gym facility?""",Ask_Resource,"{""facility"":""Gym""}",Neutral,"""The gym is open from 6 AM to 10 PM on weekdays.""",01-04-2024 11:45,S019,Sports
+"""Can you help me with hostel accommodation details?""",Request_Resource,"{""service"":""Hostel Accommodation""}",Neutral,"""Hostel accommodation details are available on the student services portal.""",01-04-2024 11:50,S020,Hostel
